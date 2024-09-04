@@ -1,3 +1,4 @@
+const ktvcau = require('./utils/main.js');
 const { spawn: s } = require("child_process");
 const l = require("./utils/log");
 const sr = (m) => {
